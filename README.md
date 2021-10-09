@@ -1,1 +1,2 @@
-# Appointy-Tech
+# Appointy
+TECH TASK 
